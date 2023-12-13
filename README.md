@@ -2,7 +2,7 @@
 
 The following Kusto query will help you find existing Single Servers in Azure Resource Graph. Please note that you need read access to the resources you are querying to obtain the results.
 
-## Azure Database for PostgreSQL - Single Server
+### Azure Database for PostgreSQL - Single Server
 
 ```SQL
 resources
@@ -34,7 +34,7 @@ resources
     tags
 ```
 
-## Azure Database for MySQL - Single Server
+### Azure Database for MySQL - Single Server
 
 ```SQL
 resources
