@@ -1,6 +1,6 @@
-# Azure Database for PostgreSQL and MySQL - Single Server discovery
+# Discovering Azure Database for PostgreSQL and MySQL - Single Server
 
-These Kusto queries show detailed lists of Single Servers on Azure.
+The following Kusto query will help you find existing Single Servers in Azure Resource Graph. Please note that you need read access to the resources you are querying to obtain the results.
 
 ## Azure Database for PostgreSQL - Single Server
 
